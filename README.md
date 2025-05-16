@@ -42,19 +42,19 @@ EMPLOYEE-MANAGEMENT-SYSTEM-MERN-STACK/
 git clone https://github.com/daveontrack/EMPLOYEE-MANAGEMENT-SYSTEM-MERN-STACK.git
 cd EMPLOYEE-MANAGEMENT-SYSTEM-MERN-STACK
 
-##Backend Setup
+## 🔧 Backend Setup
 
 cd server
 npm install
 npm run dev
 
-##Frontend Setup
+## 🔧 Frontend Setup
 
 cd client
 npm install
 npm start
 
-##.env
+## 🔧 .env
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
