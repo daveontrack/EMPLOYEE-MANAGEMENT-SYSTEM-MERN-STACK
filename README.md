@@ -45,13 +45,17 @@ cd EMPLOYEE-MANAGEMENT-SYSTEM-MERN-STACK
 ## 🔧 Backend Setup
 
 cd server
+
 npm install
+
 npm run dev
 
 ## 🔧 Frontend Setup
 
 cd client
+
 npm install
+
 npm start
 
 ## 🔧 .env
